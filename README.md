@@ -33,7 +33,7 @@ This project analyzes global Consumer Price Index (CPI) data and predicts inflat
 ## 📈 Model Performance
 - MAE: ~0.58
 - RMSE: ~1.12
-- R² Score: **0.93**
+- R² Score: **0.95**
 
 ## 🔍 Key Insights
 - High inflation concentrated in few countries
